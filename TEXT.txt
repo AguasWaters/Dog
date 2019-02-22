@@ -1,2 +1,3 @@
 Name: Joshua Alain Garcia Aguas
 Age: 18
+Birth Date: March 22,2000
